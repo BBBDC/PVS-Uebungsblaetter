@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_131" class="java.beans.XMLDecoder">
+ <object class="mayer.maximilian.sheet07.exercise02.Mercedes">
+  <void property="capacity">
+   <int>50</int>
+  </void>
+  <void property="licensePlate">
+   <string>B-AM-111</string>
+  </void>
+  <void property="model">
+   <string>Ponton</string>
+  </void>
+  <void property="numberDoors">
+   <int>2</int>
+  </void>
+  <void property="numberPassengers">
+   <int>2</int>
+  </void>
+  <void property="numberWheels">
+   <int>4</int>
+  </void>
+  <void property="productionDate">
+   <string>01.10.1956</string>
+  </void>
+ </object>
+ <object class="mayer.maximilian.sheet07.exercise02.Porsche">
+  <void property="licensePlate">
+   <string>M-JM-0601</string>
+  </void>
+  <void property="model">
+   <string>Panamera</string>
+  </void>
+  <void property="numberDoors">
+   <int>4</int>
+  </void>
+  <void property="numberPassengers">
+   <int>5</int>
+  </void>
+  <void property="numberWheels">
+   <int>4</int>
+  </void>
+  <void property="productionDate">
+   <string>30.05.2015</string>
+  </void>
+  <void property="ps">
+   <int>476</int>
+  </void>
+ </object>
+</java>
