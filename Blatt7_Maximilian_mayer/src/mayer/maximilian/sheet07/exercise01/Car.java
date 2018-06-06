@@ -3,7 +3,7 @@ package mayer.maximilian.sheet07.exercise01;
 import java.io.Serializable;
 
 public class Car implements Serializable{
-	
+	/*Test*/
 	private static long serialVersionUID;
 	
 	protected String licensePlate;
