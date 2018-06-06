@@ -1,7 +1,7 @@
 package mayer.maximilian.sheet07.exercise01;
 
 import java.io.Serializable;
-/*half*/
+/*halfi*/
 public class Car implements Serializable{
 	
 	private static long serialVersionUID;
